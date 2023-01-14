@@ -1,0 +1,14 @@
+.App{
+  border: solid gold 1px;
+  text-align: center;
+  background-color: aquamarine;
+}
+
+#editor{
+  border: solid black 1px;
+  box-shadow: 5px 5px 10px grey;
+}
+#preview{
+  border: solid black 1px;
+  box-shadow: 0px -5px 10px grey;
+}
